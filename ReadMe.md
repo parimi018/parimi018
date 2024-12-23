@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a 3rd year CSE Undergrad<br>Interested in Java, Data Structures, Python Programming and Front-end Web Development.
+I'm currently a 4th year CSE Undergrad<br>Interested in Java, Python Programming, Front-end Web Development and Data Structures.
 
 
 ## 🌐 Socials:
